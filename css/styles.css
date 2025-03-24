@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    padding: 50px 20px;
+}
+h1 {
+    font-size: 2.5rem;
+}
+p {
+    font-size: 1.2rem;
+}
